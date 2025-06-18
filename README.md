@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">Entusiasta Front-End. Dev Fullstack em formação. Apaixonado por tecnologia, música, história e jogos.</p>
+<p align="center">Entusiasta Front-End. Apaixonado por tecnologia, música, história e jogos.</p>
 
 ###
 
