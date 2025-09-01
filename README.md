@@ -23,7 +23,7 @@
 
 
 <p align="center">Desenvolvedor Front-End. Graduando em Sistemas de Informação, em transição de carreira. Em busca de aperfeiçoamento pessoal e profissional.</p>
-<p>Apaixonado por tecnologia, música, pela natureza e viagens, principalmente praias :) </p>
+<p align="center">Apaixonado por tecnologia, música, pela natureza e viagens, principalmente praias :) </p>
 <h2><a href="https://www.linkedin.com/in/douglas-morais-a42151187/">Meu Linkedin</a></h2>
 
 
