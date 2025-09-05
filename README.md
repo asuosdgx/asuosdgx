@@ -17,7 +17,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
    </p>
 </div>
-<p>https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight</p>
+
 
 
 <p align="center">Desenvolvedor Front-End. Graduando em Sistemas de Informação, em transição de carreira. Em busca de aperfeiçoamento pessoal e profissional.</p>
